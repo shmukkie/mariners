@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<body style="background-color:#C4CED4">
+<h1 style="color:#005C5C">
+  <em>Seattle Mariners</em>
+</h1>
+<hr>
+<h3>
+  This website will display various images
+</h3>
+<img src="https://images.seattletimes.com/wp-content/uploads/2023/05/05022023_Rodriguez_164228.jpg?d=780x496" width=400px length=100px>
+<p>
+  This image shows <a href="https://www.mlb.com/player/julio-rodriguez-677594">Julio Rodríguez</a>, the center fielder for the Seattle Mariners.
+</p>
+<h3 style="color:#005C5C">
+  2023 Regular Season stats
+</h3>
+<table border="1">
+  <tr style="background-color:">
+    <th>AB</th>
+    <th>AVG</th>
+    <th>HR</th>
+    <th>RBI</th>
+    <th>SB</th>
+    <th>OPS</th>
+  </tr>
+  <tr>
+    <td>224</td>
+    <td>.246</td>
+    <td>10</td>
+    <td>31</td>
+    <td>10</td>
+    <td>.749</td>
+  </tr>
+</table>
+</body>
